@@ -19,4 +19,4 @@ Standard ray tracers are not built to couple natively with multi-physics finite 
 
 ## Credits
 
-The current codebase was developed by **Marwan Aarab** ([@m-aarab](https://github.com/m-aarab)) in the **Mechanics of Materials** research group at TU/e, under the supervision of **J.J.C. Remmers** and **M.G.D. Geers**. Their supervision focused on the numerical methods; the code itself was not reviewed by them, and responsibility for the implementation lies with the author.
+The current codebase was developed by **Marwan Aarab** ([@m-aarab](https://github.com/m-aarab)) in the **Mechanics of Materials** research group at TU/e, under the supervision of **J.J.C. Remmers** ([@jjcremmers](https://github.com/jjcremmers)) and **M.G.D. Geers**. Their supervision focused on the numerical methods; the code itself was not reviewed by them, and responsibility for the implementation lies with the author.
